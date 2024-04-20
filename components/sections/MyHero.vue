@@ -26,7 +26,7 @@ import MyButton from "~/components/reusables/MyButton.vue";
           effortlessly manage your properties and ensure
           seamless tenant interactions
         </p>
-        <div class="flex justify-center">
+        <div class="flex justify-center cursor-pointer">
           <MyButton text="Get Started"/>
         </div>
       </div>

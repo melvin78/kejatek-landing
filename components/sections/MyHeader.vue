@@ -8,7 +8,7 @@
       <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
         <MyLogo/>
       </a>
-      <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+      <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center cursor-pointer">
         <a class="mr-5 hover:text-gray-900">Home</a>
         <a class="mr-5 hover:text-gray-900">Services</a>
         <a class="mr-5 hover:text-gray-900">About</a>
