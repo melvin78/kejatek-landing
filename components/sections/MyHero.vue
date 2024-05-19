@@ -17,21 +17,15 @@ import MyButton from "~/components/reusables/MyButton.vue";
           <MyHighlightedText text="Ease"/>
         </h1>
         <p class="mb-8 leading-relaxed">
-          <MyHighlightedText text="KejaTek"/>
-          , your all-in-one solution for streamlined rental
-          management. From tracking paid bills to monitoring late rental payments, our platform empowers landlords with
-          real-time insights. Receive instant alerts and notifications for unpaid bills and vacancies, ensuring no
-          detail slips through the cracks.
-          <MyHighlightedText text="KejaTek"/>
-          effortlessly manage your properties and ensure
-          seamless tenant interactions
+          KejaTek offers a one stop solution to manage all your properties. If you need to keep track of all your tenants
+          rental payments, fees and expenses. Some of the features are outlined below
         </p>
         <div class="flex justify-center cursor-pointer">
           <MyButton text="Get Started"/>
         </div>
       </div>
       <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img class="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600">
+        <MyAnimatedLogo/>
       </div>
     </div>
   </section>
